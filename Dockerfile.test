@@ -1,0 +1,2 @@
+FROM registry.redhat.io/ubi8/openjdk-11
+COPY target/edip_serviceagent-0.0.1-SNAPSHOT.jar /test.jar
